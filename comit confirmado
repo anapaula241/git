@@ -1,0 +1,19 @@
+Revert " atualizações feitas 12:30"
+
+This reverts commit 13c2f69356f57bf626cf1a17eba842ffef8e790f.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   agora.txt
+#	modified:   index.html
+#	deleted:    novo.html
+#	modified:   teste1.html
+#	modified:   teste2.html
+#	modified:   teste4.html
+#	modified:   testeagora.html
+comit confirmado comit confirmado 
