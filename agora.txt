@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 texto txt 12:59 deve sair
-=======
-texto txt 12:59 
->>>>>>> parent of 13c2f69 ( atualizações feitas 13:30)
+
+
